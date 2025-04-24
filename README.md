@@ -3,7 +3,7 @@
 The store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in the coming years.
 
 ## Dataset Used
-- <a href="[https://github.com/Simran1028/Data-Analysis-Dashboard-Excel/tree/main/powerbi-ecommerce](https://github.com/Simran1028/Data-Analysis-Dashboard-Excel/blob/main/Store%20Data%20Analysis.xlsx)">Dataset</a>
+- <a href="https://github.com/Simran1028/Data-Analysis-Dashboard-Excel/blob/main/Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions
 - Compare the sales and orders using single chart.
